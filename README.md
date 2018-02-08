@@ -1,2 +1,2 @@
 # test
-This is an Rstudio project for git and Github
+This is an **Rstudio project** for git and Github
